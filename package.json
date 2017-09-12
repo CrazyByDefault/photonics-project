@@ -1,0 +1,17 @@
+{
+  "name": "photonics",
+  "version": "1.0.0",
+  "description": "npm server for photonics project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrazyByDefault",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "net": "^1.0.2",
+    "tcp-proxy": "0.0.1"
+  }
+}
